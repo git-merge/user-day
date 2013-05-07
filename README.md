@@ -12,5 +12,21 @@ If you want to discuss something, **start an issue in this repository** so that 
 
 In the docs/ subdirectory of this repository we would like to document what was discussed and any decisions that were made or actions that should be taken.  If you see something or can help us document the discussions that this day results in, please send a pull request to imrpove it.
  
+## Schedule
+
+* Start time: 9am
+* Breakfast: 9am - 9:30am
+* Lunch: 12:30pm - 1:30pm
+* Snack Break: 3:30pm - 4pm
+* End time: 6pm
+
+## Space
+
+* 300 attendees
+* Conference Room: Nikolai 1 (7th floor, we have the entire floor)
+* Seating: Mixture of rounds and theater style
+* Stage for speakers
+* A/V setup 
+* Several white boards
 
 
