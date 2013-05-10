@@ -69,6 +69,10 @@ transatlantic flight
 
 * https://github.com/pearkes/get
 
+## Recursive Submodule Checkout
+
+* [Slides](./Recursive%20Submodule%20Checkout%20Slides.pdf?raw=true)
+
 ## IDE Integrations
 
 ### [Visual Studio with Git](http://channel9.msdn.com/posts/gitforvisualstudiotfs)
