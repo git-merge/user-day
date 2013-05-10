@@ -60,12 +60,19 @@ Safe Svn to Git Migration
 
 * http://subgit.com/
 
+## GitHub Get
+
+Early look at a tool that uses the GitHub API to find all the repos in all the orgs you belong to, clone 
+them locally if they don't exist or do a fetch if they do so that you are free to hack away on that long
+transatlantic flight
+
+* https://github.com/pearkes/get
 
 ## IDE Integrations
 
-### Visual Studio with Git
+### [Visual Studio with Git](http://channel9.msdn.com/posts/gitforvisualstudiotfs)
 
-### IntelliJ Idea Git Support
+### [IntelliJ Idea Git Support](http://www.jetbrains.com/idea/webhelp/using-git-integration.html)
 
 ### XCode with GitHub
 
