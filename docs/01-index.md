@@ -68,6 +68,13 @@ transatlantic flight
 
 * https://github.com/pearkes/get
 
+
+# GitHub Contributions
+
+* porras/ghcontributions
+* iamserg.io
+
+
 ## IDE Integrations
 
 ### [Visual Studio with Git](http://channel9.msdn.com/posts/gitforvisualstudiotfs)
@@ -78,10 +85,5 @@ transatlantic flight
 Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
 Install it via [Alcatraz](http://mneorr.github.io/Alcatraz/)
 [Source] (https://github.com/larsxschneider/ShowInGitHub)
-
-Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
-
-* https://github.com/larsxschneider/ShowInGitHub
-
 
 
