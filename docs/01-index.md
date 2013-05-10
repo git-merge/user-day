@@ -18,7 +18,7 @@ libgit2 is a portable, pure C implementation of the Git core methods provided as
 
 ## BFG
 
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala 
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 * https://github.com/rtyley/bfg-repo-cleaner
 * http://rtyley.github.io/bfg-repo-cleaner/
@@ -26,9 +26,10 @@ Removes large or troublesome blobs like git-filter-branch does, but faster. And 
 
 ## gource
 
-Version control visualization
+Software version control visualization by [Andrew Caudwell](http://twitter.com/andrewcaudwell)
 
-* https://code.google.com/p/gource/
+* http://code.google.com/p/gource/
+* http://github.com/acaudwell/Gource
 
 
 ## hub
@@ -62,7 +63,7 @@ Safe Svn to Git Migration
 
 ## GitHub Get
 
-Early look at a tool that uses the GitHub API to find all the repos in all the orgs you belong to, clone 
+Early look at a tool that uses the GitHub API to find all the repos in all the orgs you belong to, clone
 them locally if they don't exist or do a fetch if they do so that you are free to hack away on that long
 transatlantic flight
 
