@@ -75,6 +75,9 @@ transatlantic flight
 ### [IntelliJ Idea Git Support](http://www.jetbrains.com/idea/webhelp/using-git-integration.html)
 
 ### XCode with GitHub
+Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
+Install it via [Alcatraz](http://mneorr.github.io/Alcatraz/)
+[Source] (https://github.com/larsxschneider/ShowInGitHub)
 
 Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
 
