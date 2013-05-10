@@ -76,5 +76,9 @@ transatlantic flight
 
 ### XCode with GitHub
 
+Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
+
+* https://github.com/larsxschneider/ShowInGitHub
+
 
 
