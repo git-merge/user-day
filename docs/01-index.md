@@ -68,6 +68,11 @@ transatlantic flight
 
 * https://github.com/pearkes/get
 
+## git bisect
+
+Fully automated bisecting with "git bisect run"
+
+* http://lwn.net/Articles/317154/
 
 # GitHub Contributions
 
