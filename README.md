@@ -12,6 +12,8 @@ If you want to discuss something, **start an issue in this repository** so that 
 
 In the docs/ subdirectory of this repository we would like to document what was discussed and any decisions that were made or actions that should be taken.  If you see something or can help us document the discussions that this day results in, please send a pull request to imrpove it.
  
+Check out the notes of projects presented [here](https://github.com/git-merge/user-day/blob/master/docs/01-index.md).
+
 ## Schedule
 
 * Start time: 9am
