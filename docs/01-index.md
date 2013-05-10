@@ -68,6 +68,15 @@ transatlantic flight
 
 * https://github.com/pearkes/get
 
+## git bisect
+
+Enjoy fighting regressions with git bisect
+
+* http://www.slideshare.net/ChristianCouder/enjoy-fighting-regressionswithgitbisect
+
+Fully automated bisecting with "git bisect run"
+
+* http://lwn.net/Articles/317154/
 
 # GitHub Contributions
 
