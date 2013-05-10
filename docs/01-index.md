@@ -63,9 +63,9 @@ Safe Svn to Git Migration
 
 ## IDE Integrations
 
-### Visual Studio with Git
+### [Visual Studio with Git](http://channel9.msdn.com/posts/gitforvisualstudiotfs)
 
-### IntelliJ Idea Git Support
+### [IntelliJ Idea Git Support](http://www.jetbrains.com/idea/webhelp/using-git-integration.html)
 
 ### XCode with GitHub
 
