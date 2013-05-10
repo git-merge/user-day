@@ -12,6 +12,10 @@ libgit2 is a portable, pure C implementation of the Git core methods provided as
 * http://libgit2.github.com/
 
 
+## Rugged, Ruby libgit2 binding
+
+* https://github.com/libgit2/rugged
+
 ## BFG
 
 Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala 
