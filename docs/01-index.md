@@ -68,6 +68,9 @@ Safe Svn to Git Migration
 ### IntelliJ Idea Git Support
 
 ### XCode with GitHub
+Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
+Install it via [Alcatraz](http://mneorr.github.io/Alcatraz/)
+[Source] (https://github.com/larsxschneider/ShowInGitHub)
 
 
 
