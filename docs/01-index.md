@@ -75,6 +75,14 @@ transatlantic flight
 * iamserg.io
 
 
+## ctags.js and hubTags
+
+ctags.js is a ctags port to Javascript. The chrome plug-in hubTags tries to integrate that into GitHub. It allows you to click on functions and jump to their declaration. Unfortuantly hubTags is broken due to GitHub front-end changes. PR appreciated :-)
+
+* [https://github.com/larsxschneider/ctags.js](https://github.com/larsxschneider/ctags.js)
+* [https://github.com/larsxschneider/hubtags](https://github.com/larsxschneider/hubtags)
+
+
 ## IDE Integrations
 
 ### [Visual Studio with Git](http://channel9.msdn.com/posts/gitforvisualstudiotfs)
