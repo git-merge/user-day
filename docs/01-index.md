@@ -52,6 +52,7 @@ Free, open source training and teaching slide decks in Jekyll
 
 * http://teach.github.com/
 * http://training.github.com/
+* http://learn.github.com
 
 
 ## subgit
