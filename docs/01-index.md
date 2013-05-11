@@ -4,6 +4,9 @@ This is the documentation of the discussions of the Git Merge Berlin 2013 User D
 
 If you are currently attending this event, please fork this repository and improve this documentation to reflect the ideas and discussions that took place.
 
+## Git merge User Day in other languages
+
+* (Spanish) Resumen del Git Merge User Day: http://aprendegit.com/git-merge-2013-user-day/ 
 
 ## libgit2
 
