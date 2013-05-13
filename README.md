@@ -14,6 +14,8 @@ In the docs/ subdirectory of this repository we would like to document what was 
  
 Check out the notes of projects presented [here](https://github.com/git-merge/user-day/blob/master/docs/01-index.md).
 
+We're collecting [blog posts and images](https://github.com/git-merge/user-day/blob/master/docs/02-index.md), too.
+
 ## Schedule
 
 * Start time: 9am
