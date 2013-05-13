@@ -43,11 +43,12 @@ Command line helper for GitHub
 * http://defunkt.io/hub/hub.1.html
 
 
-## imerge
+## git-imerge
 
 Incremental merge for git
 
-https://github.com/mhagger/git-imerge
+* https://github.com/mhagger/git-imerge
+* http://softwareswirl.blogspot.de/search/label/git-imerge
 
 
 ## Git Training Materials by GitHub
