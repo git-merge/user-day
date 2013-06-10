@@ -13,16 +13,16 @@ This is not just for the User Day, but also for the Developer and Hack Days.
   - Maximilian Haack: About Git Merge and his thesis for visualizing Git
   - Ben Straub: About libgit2
   - Jeff “Peff” King: Git core development, improving performance
-* [Part 2](http://episodes.gitminutes.com/2013/05/gitminutes-09-git-merge-2013-part-1.html)
+* [Part 2](http://episodes.gitminutes.com/2013/05/gitminutes-10-git-merge-2013-part-2.html)
   - Scott Chacon: Git community
   - Mislav Marohnić: Passion of Git users. Hub. Git tips. Merge vs rebase
   - Thomas Rast: Git internals, git-notes, git log -L, developing Git
-* [Part 3](http://episodes.gitminutes.com/2013/05/gitminutes-09-git-merge-2013-part-1.html)
+* [Part 3](http://episodes.gitminutes.com/2013/06/gitminutes-11-git-merge-2013-part-3.html)
   - Alfonso Alba García: The Spanish Git community, AprendeGit
   - Andrey Devyatkin: Large Git migrations at Ericsson
   - Jens Lehmann: Git submodules
   - Christian Halstrick: About JGit
-* [Part 4](http://episodes.gitminutes.com/2013/05/gitminutes-09-git-merge-2013-part-1.html)
+* [Part 4](http://episodes.gitminutes.com/2013/06/gitminutes-12-git-merge-2013-part-4.html)
   - Michael Haggerty: git imerge
   - Christian Couder: git bisect
   - Michael Diers: Consulting on Git & processes
